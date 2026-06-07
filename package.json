@@ -1,0 +1,28 @@
+{
+  "name": "tp-eslint-git",
+  "version": "1.0.0",
+  "description": "Tp d'initiation aux analyseurs de code et à la CI (Intégration continue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enj5/tp-eslint-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/enj5/tp-eslint-git/issues"
+  },
+  "homepage": "https://github.com/enj5/tp-eslint-git#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.1",
+    "globals": "^17.6.0",
+    "husky": "^9.1.7"
+  }
+}
